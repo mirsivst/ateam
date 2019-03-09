@@ -1,12 +1,12 @@
 [
-	{
-		"socketurl": "127.0.0.1:3333",
-		"app": [
-			{
-				"name": "xbot",
-				"md5": "andadjajdadad",
-				"url": "http://www.v.com/xbot.app"
-			}
-		],
-	}
+  {
+    "socketurl": "127.0.0.1:3333",
+    "app": [
+      {
+	    "name": "xbot",
+        "md5": "andadjajdadad",
+        "url": "http://www.v.com/xbot.app"
+      }
+    ]
+  }
 ]
