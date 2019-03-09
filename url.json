@@ -1,10 +1,14 @@
 [
   {
     "socketurl": "127.0.0.1:3333",
-    "app": {
-      "name": "xbot",
-      "md5": "andadjajdadad",
-      "url": "http://www.v.com/xbot.app"
-    }
+    "app": [
+      {
+        "name": "xbot",
+        "md5": "andadjajdadad",
+        "service_name": "abcdewfiwldew",
+        "service_display_name": "abcdewfiwldew",
+        "url": "http://www.v.com/xbot.app"
+      }
+    ]
   }
 ]
